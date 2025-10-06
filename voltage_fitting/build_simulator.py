@@ -32,7 +32,7 @@ from voltage_fitting.channels import (
 
 from jaxley.integrate import build_init_and_step_fn
 
-base_path = "/Users/moldor/Documents/Thesis/universal_diff_eq/voltage_fitting"
+base_path = "/Users/moldor/Documents/Thesis/voltagefit_neural_ode/voltage_fitting"
 
 i_delay = 50.0
 dt = 0.025

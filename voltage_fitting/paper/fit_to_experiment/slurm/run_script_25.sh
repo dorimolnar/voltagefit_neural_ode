@@ -10,4 +10,4 @@
 
 echo "Hello from task $SLURM_ARRAY_TASK_ID"
 
-python -u /weka/macke/mwe528/thesis/universal_diff_eq/voltage_fitting/nn_fitting_to_real/fte_parallel_base_script.py
+python -u /weka/macke/mwe528/thesis/voltagefit_neural_ode/voltage_fitting/nn_fitting_to_real/fte_parallel_base_script.py

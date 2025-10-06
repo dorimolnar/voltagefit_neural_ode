@@ -1,7 +1,7 @@
 from invoke import task
 from pathlib import Path
 
-basepath = r"/Users/moldor/Documents/Thesis/universal_diff_eq/voltage_fitting"
+basepath = r"/Users/moldor/Documents/Thesis/voltagefit_neural_ode/voltage_fitting"
 
 open_cmd = "open"
 

@@ -18,7 +18,7 @@ source ~/anaconda3/etc/profile.d/conda.sh
 conda activate gpu_jaxley_env
 
 
-python -u /weka/macke/mwe528/thesis/universal_diff_eq/voltage_fitting/nn_fitting_to_real/multi_fitting/fmte_finetune_script.py
+python -u /weka/macke/mwe528/thesis/voltagefit_neural_ode/voltage_fitting/nn_fitting_to_real/multi_fitting/fmte_finetune_script.py
 
 # End timing
 end_time=$(date +%s)
